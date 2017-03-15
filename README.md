@@ -19,4 +19,32 @@ We would like to acknowledge our consultant William Bishop for the constant supp
 ....*   Speakers
 ....*   System Hardware Mount
 ....*   Microphone & Pre-Amplifier
+....*   Speakers
+....*   System Hardware Mount
+....*   DSP (Digital Signal Processing)
+....*   Noise Attenuation Algorithm
+..*  Project Specifications
+....*  Functional Specifications
+....*  Non-functional Specifications
+..*  Detailed Design
+..*  Microphone and Pre-Amplifier
+....*  Microphone and Pre-Amplifier Design Choice
+..*  Speaker
+..*  System Hardware Mount
+..*  Digital Signal Processing (DSP) Board
+....*  Comparison of the Texas Intruments DSP Boards
+....*  Noise Attenuation Algorithm
+....*  Data Flow & Structure
+....*  Frequency Setup and Selection System
+....*  Tone Generation
+....*  Adaptive Algorithm
+..*  Prototype Data
+....*  Hardware System Mount
+....*  Prototype Testing Results
+..*  Discussion and Conclusions
+....*  Evaluation of Final Design
+
+
+
+
 
